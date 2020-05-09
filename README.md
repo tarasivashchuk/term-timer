@@ -1,5 +1,7 @@
 # cli-timer-chronometer
 
+![Screen Capture](./docs/screen-capture.gif)
+
 ## Features
 
 * Command-line based chronometer, which prints the time elapsed since the program started.
@@ -30,7 +32,7 @@
     python src/main.py 5:00    # set timer to 5 minutes
     python src/main.py 1:30:00 # set timer for a hour and a half
     python src/main.py 1:30    # set timer for a minute and a half
-    
+
 ## Additional notes
 
 * You may set up a command line alias so its easier to use this tool from anywhere. I have mine set up as `ck`, short for `clock`.
